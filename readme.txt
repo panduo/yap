@@ -7,6 +7,7 @@
 5.访问http://yourhost/{&$APP_NAME&}/,出现Hellow Word!, 表示运行成功,否则请查看php错误日志;
 
 之前的纪录
+sadsadsadsadsadxxxxxx
 这是在github上的内容
 ssdasdasds
 sss
